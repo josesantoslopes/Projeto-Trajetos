@@ -1,0 +1,1 @@
+https://technet.microsoft.com/pt-br/library/ms174923(v=sql.105).aspx - Algoritmo de regressão MTS
